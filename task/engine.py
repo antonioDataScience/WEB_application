@@ -40,7 +40,8 @@ def do_the_rest(links, temp, window, streaming):
                     else:
                         pass
                 if not status:
-                    return {"Days": (end_date-start_date).days,
+                    return {"Window": obj.window,
+                            "Days": (end_date-start_date).days,
                             "Start Date": start_date.date(),
                             "End Date": end_date.date(),
                             "Mean": obj.rolling_mean_results}
