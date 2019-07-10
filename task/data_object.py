@@ -8,6 +8,7 @@ class Mean():
         self.dict = {}
         self.window = window
         self.rolling_mean_results = []
+        self.corrections = []
         self.late = []
         self.step = 0
 
