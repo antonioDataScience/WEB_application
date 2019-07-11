@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62fdec46-ba32-4ab7-9204-a1c6657b4bdf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/task/engine.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/engine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/templates/hints.html" beforeDir="false" afterPath="$PROJECT_DIR$/task/templates/hints.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/task/data_object.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="82" lean-forward="true" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
+              <caret line="22" column="82" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -57,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/task/engine.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="355">
-              <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+              <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -90,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/task/templates/hints.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+            <state relative-caret-position="405">
+              <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
               <folding>
                 <element signature="n#style#0;n#h2#0;n#body#0;n#html#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -201,12 +201,12 @@
         <option value="$PROJECT_DIR$/task/static/css/main.css" />
         <option value="$PROJECT_DIR$/task/templates/layout.html" />
         <option value="$PROJECT_DIR$/task/data_object.py" />
-        <option value="$PROJECT_DIR$/task/templates/hints.html" />
         <option value="$PROJECT_DIR$/task/engine.py" />
+        <option value="$PROJECT_DIR$/task/templates/hints.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="150" />
     <option name="y" value="27" />
     <option name="width" value="1282" />
@@ -715,20 +715,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task/templates/hints.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
-          <folding>
-            <element signature="n#style#0;n#h2#0;n#body#0;n#html#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/task/data_object.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="82" lean-forward="true" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
+          <caret line="22" column="82" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -738,9 +728,19 @@
     <entry file="file://$PROJECT_DIR$/task/engine.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
-          <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task/templates/hints.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#body#0;n#html#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
