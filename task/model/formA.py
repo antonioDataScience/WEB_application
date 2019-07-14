@@ -1,4 +1,4 @@
-from task.formR import MeanForm
+from task.model.formR import MeanForm
 from wtforms import SubmitField
 
 

@@ -3,7 +3,7 @@ import requests
 import re
 import csv
 from contextlib import closing
-from task.data_object import Mean
+from task.view.engine.data_object import Mean
 import codecs
 from stream_tools.kafka_ import producer
 
