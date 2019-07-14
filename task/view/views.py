@@ -9,6 +9,7 @@ from flask import render_template, Response
 from flask import Blueprint
 import threading
 
+
 result_b = Blueprint('result', __name__)
 simulation_b = Blueprint('simulation', __name__)
 hints_b = Blueprint('hints', __name__)
